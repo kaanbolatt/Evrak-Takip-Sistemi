@@ -1,0 +1,5 @@
+RewriteEngine on
+
+#404 hata sayfası yönlendirme kodu
+ErrorDocument 404 http://localhost/deneme/404.php
+
